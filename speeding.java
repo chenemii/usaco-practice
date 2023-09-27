@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+// solution from someone else
+
 public class speeding
 {
 	public static void main(String[] args) throws IOException
