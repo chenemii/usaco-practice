@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+// solution from someone else
+
 public class MixMilk {
 	static final int N = 3;  // The number of buckets (which is 3)
 	static final int TURN_NUM = 100;
