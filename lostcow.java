@@ -1,4 +1,4 @@
-// Source: https://usaco.guide/general/io
+// not my solution
 
 import java.io.*;
 import java.util.StringTokenizer;
