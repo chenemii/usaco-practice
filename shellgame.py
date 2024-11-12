@@ -1,3 +1,4 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=891
 def main():
     with open("shell.in") as read:
         n = int(read.readline())
