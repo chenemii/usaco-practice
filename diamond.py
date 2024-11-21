@@ -1,4 +1,4 @@
-
+# https://usaco.org/index.php?page=viewproblem2&cpid=639
 #sort ascending
 # if i and next i are less or equal  k apart, d +1
 diamonds = []
